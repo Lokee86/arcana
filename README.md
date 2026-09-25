@@ -1,6 +1,6 @@
 # Arcana
 
-> **Repository moved:** Arcana's canonical source and active development now live at [`github.com/Lokee86/grimoire/arcana`](https://github.com/Lokee86/grimoire/tree/main/arcana). This repository is retained as a migration pointer and historical source. Arcana remains an independently buildable Rust application and reusable graph engine inside the Grimoire monorepo.
+> **Historical standalone repository:** Arcana's canonical source, active development, and current documentation live in [`Lokee86/lexicon-arcana`](https://github.com/Lokee86/lexicon-arcana), under [`arcana/`](https://github.com/Lokee86/lexicon-arcana/tree/main/arcana). This repository is retained as historical source and a migration pointer; the material below may not match the current release.
 
 Arcana is the repository-graph foundation of the [**Warlock Toolchain**](https://github.com/Lokee86/warlock-toolchain).
 It models repositories as queryable graphs and provides the storage, snapshot,
